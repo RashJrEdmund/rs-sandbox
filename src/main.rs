@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    let name = "rash";
+    println!("Hello, world! {}", name);
 }
